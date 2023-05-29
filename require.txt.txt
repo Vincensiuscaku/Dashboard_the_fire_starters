@@ -5,3 +5,4 @@ streamlit
 plotly-express
 plotly==5.14.1
 matplotlib
+pip==23.1.2
