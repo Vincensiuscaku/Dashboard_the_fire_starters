@@ -1,6 +1,7 @@
 import pandas as pd
 import pickle
 import streamlit as st
+pip install plotly
 import plotly.express as px
 import matplotlib.pyplot as plt
 
