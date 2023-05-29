@@ -27,9 +27,10 @@ st.caption(APP_SUB_TITLE)
 #mendefinisikan total sales dan total transactions
 
 #tot_sales = data['sales'].sum()
-tot_trans = data['transactions'].sum()
+#tot_trans = data['transactions'].sum()
     
 tot_sales = 1073644952  # Mengubah nilai total sales menjadi 1,073 miliar
+tot_trans = 4668805185
 
 # Menampilkan nilai
 col1, col2 = st.columns(2)
