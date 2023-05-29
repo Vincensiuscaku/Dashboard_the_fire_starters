@@ -1,5 +1,6 @@
 pandas
 pickle
 streamlit
+plotly==4.14.3
 plotly.express
 matplotlib.pyplot
