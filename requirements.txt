@@ -3,4 +3,5 @@ numpy
 streamlit
 matplotlib
 plotly
-datetime
+DateTime
+pip==23.1.o
