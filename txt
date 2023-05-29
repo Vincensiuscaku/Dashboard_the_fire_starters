@@ -6,3 +6,4 @@ plotly express
 streamlit
 pip install matplotlib
 matplotlib
+pip install plotly
