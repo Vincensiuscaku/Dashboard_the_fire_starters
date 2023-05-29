@@ -1,8 +1,8 @@
 import pandas as pd
 import pickle
 import streamlit as st
-#import plotly.express as px
-#import matplotlib.pyplot as plt
+import plotly.express as px
+import matplotlib.pyplot as plt
 
 
 px.defaults.template = 'plotly_dark'
