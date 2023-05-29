@@ -1,8 +1,5 @@
-pandas==1.2.4
-numpy==1.20.1
+pandas
+pickle
 streamlit
-pip==21.0.1
-plotly-express
-pip install plotly-express 
-pip install plotly-express
-plotly==4.14.3
+plotly.express
+matplotlib.pyplot
