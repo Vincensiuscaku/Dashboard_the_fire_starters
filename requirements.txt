@@ -4,4 +4,3 @@ streamlit
 matplotlib
 plotly
 DateTime
-pip==23.1.o
