@@ -1,0 +1,8 @@
+pip install pandas
+pandas
+pickle
+pip install plotly-express
+plotly express
+streamlit
+pip install matplotlib
+matplotlib
