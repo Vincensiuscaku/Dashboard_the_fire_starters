@@ -2,7 +2,5 @@ pandas
 numpy
 pickle
 streamlit
-plotly-express
-plotly==5.14.1
+plotly
 matplotlib
-pip==23.1.2
