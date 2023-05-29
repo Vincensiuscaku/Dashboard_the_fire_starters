@@ -1,7 +1,6 @@
 import pandas as pd
 import pickle
 import streamlit as st
-import plotly
 import plotly.express as px
 import matplotlib.pyplot as plt
 
@@ -11,7 +10,7 @@ px.defaults.color_continuous_scale = 'blue'
 
 # ///////////// MEMBUKA DATA PICKLE ////////////////
 
-with open('C:/final_project/data2.pkl', 'rb') as f:
+with open('C:/final_project/data2.pickle', 'rb') as f:
     data = pickle.load(f)
 
 with open('C:/final_project/datase.pkl', 'rb') as f:
