@@ -4,3 +4,4 @@ streamlit
 pip==21.0.1
 plotly
 plotly-express
+pip install plotly
