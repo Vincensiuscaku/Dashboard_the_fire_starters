@@ -1,7 +1,7 @@
 import pandas as pd
 import pickle
 import streamlit as st
-import plotly.express as px
+import plotly as px
 import matplotlib.pyplot as plt
 
 
