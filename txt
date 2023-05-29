@@ -1,10 +1,7 @@
-pip install pandas
-pandas
+pandas==1.2.4
+numpy==1.20.1
 pickle
-pip install plotly-express
-plotly express
 streamlit
-pip install matplotlib
-matplotlib
-pip install plotly
-import plotly.express as px
+pip==21.0.1
+plotly
+plotly-express
