@@ -2,6 +2,7 @@ import pandas as pd
 import pickle
 import streamlit as st
 import plotly.express as px
+pip install plotly-express
 import matplotlib.pyplot as plt
 
 
