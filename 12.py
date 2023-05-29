@@ -10,7 +10,7 @@ px.defaults.color_continuous_scale = 'blue'
 
 # ///////////// MEMBUKA DATA PICKLE ////////////////
 
-with open("data2.pkl", 'rb') as f:
+with open("dataty.pkl", 'rb') as f:
     data = pickle.load(f)
 
 with open("datase.pkl", 'rb') as f:
