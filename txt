@@ -7,3 +7,4 @@ streamlit
 pip install matplotlib
 matplotlib
 pip install plotly
+import plotly.express as px
